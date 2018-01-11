@@ -13,6 +13,13 @@ Graeme Turney, Matthew Hodgson
 
 <h3>What-Why-How:</h3>
 
+<p><b>What</b></p>
+<p>The current data is a set of tables. The attributes of the tables are the arrival and departure times from a pair of locatinos. The tables are itemized by the ferry name.</p>
+<p><b>Why</b></p>
+<p>Why does this visualization need to exist? So that it can present to the user the time schedules of multiple ferries on multiple routes. Users also wish to query the current schedule, to compare routes to one another.</p>
+<p><b>How</b></p>
+<p></p>
+
 <h3>Design Study Methodology:</h3>
 
 <h3>Pitfalls:</h3>
