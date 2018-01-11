@@ -18,7 +18,7 @@ Graeme Turney, Matthew Hodgson
 <p><b>Why</b></p>
 <p>Why does this visualization need to exist? So that it can present to the user the time schedules of multiple ferries on multiple routes. Users also wish to query the current schedule, to compare routes to one another.</p>
 <p><b>How</b></p>
-<p></p>
+<p>The data is encoded through an ordered arrangement of different colours to signify a ferry's place in time, and the location it is travelling to and from. This data would be able to be manipulated through drag and drop functionality. It would allow you to adjust the arrangment by selecting a ferry and moving it the correct time. Clicking on it would also allow you to change the start and end location.</p>
 
 <h3>Design Study Methodology:</h3>
 
