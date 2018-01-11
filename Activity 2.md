@@ -6,6 +6,11 @@ Graeme Turney, Matthew Hodgson
 
 <h3>Assumptions:</h3>
 
+<ul>
+  <li>Code exists the behind the scenes of the visualization that knows how many berths exist at each location.</li>
+  <li>The system has functionality to know the length of time it takes to get to each location from another, and set the length of time of the route accordingly.</li>
+</ul>
+
 <h3>What-Why-How:</h3>
 
 <h3>Design Study Methodology:</h3>
