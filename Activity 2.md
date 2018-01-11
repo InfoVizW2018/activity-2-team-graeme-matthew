@@ -22,6 +22,9 @@ Graeme Turney, Matthew Hodgson
 
 <h3>Design Study Methodology:</h3>
 
+<p>Due to the expidited nature of this activity, most of the 9 steps of the design were sped through or even skipped. Most time was spent on the design process after quickly learning about the problem at hand.</p>
+<p>If given a larger amount of time to work on this problem, more steps of the process could be performed.</p>
+
 <h3>Pitfalls:</h3>
 
 <p>Some of the pitfalls that may occur when designing this visualizations could be as follows:</p>
