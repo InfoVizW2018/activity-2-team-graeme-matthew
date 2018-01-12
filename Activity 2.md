@@ -10,7 +10,7 @@ Graeme Turney, Matthew Hodgson
 
 <p/>
 <h3>Design Description</h3>
-<p>This design mimics that of a class schedule, in that each of the days of the week are at the top and the time of day is displayed along the left side of the schedule. For each day, the 7 ferries are shown and their locations for a given time period are shown in the corresponding color representing a specific location. For example, a ferry CS is shown that it is in Surrey (Red) from 8:00am to 8:30am.</p> 
+<p>This design mimics that of a class schedule, in that each of the days of the week are at the top and the time of day is displayed along the left side of the schedule. For each day, the 7 ferries are shown and their locations for a given time period are shown in the corresponding color representing a specific location. For example, a ferry CS is shown that it is in Surrey (Red) from 8:00am to 8:30am. The horizontal black line represents the current time of day.</p> 
 <p>The black lines from a ferry's current location to it's destination represent the travel time for that route. The number of berths a port can support is encoded into the design, such that a scheduler may not allow for more than the number of berths available at a port to be occupied at a given time. For example, if Nanaimo only supported up to 3 ferries to be docked at a time, then the scheduler would not allow any changes that would result in 4 ferries in Nanaimo at once.</p>
 <p>The following day would have all 7 ferries listed, each with the color coding representing where their final destination was the previous day. Schedulers could input the routes that they would like for the day and any conflicts could be accounted for with relative ease.</p>
 
