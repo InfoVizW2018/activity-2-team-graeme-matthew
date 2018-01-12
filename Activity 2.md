@@ -4,6 +4,10 @@
 <h2>Team Members:</h2>
 Graeme Turney, Matthew Hodgson
 
+<h3>Design</h3>
+
+<h3>Design Description</h3>
+
 <h3>Assumptions:</h3>
 
 <ul>
