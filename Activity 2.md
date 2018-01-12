@@ -33,4 +33,4 @@ Graeme Turney, Matthew Hodgson
 <p><b>PF-9: No need for change: existing tools are good enough.</b> There is an abundance of scheduling applications that currently exist. It is possible that a scheduling application could be adapted to fit the use case of Seaspan.</p>
 
 <p><b>PF-: </b> </p>
-![alt text](https://imgur.com/a/bIz0z "Image")
+![alt text](https://imgur.com/a/bIz0z)
