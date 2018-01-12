@@ -9,6 +9,7 @@ Graeme Turney, Matthew Hodgson
 <ul>
   <li>Code exists the behind the scenes of the visualization that knows how many berths exist at each location.</li>
   <li>The system has functionality to know the length of time it takes to get to each location from another, and set the length of time of the route accordingly.</li>
+  <li>The time it takes for the ferry to move from one location is fixed per route.</li>
 </ul>
 
 <h3>What-Why-How:</h3>
