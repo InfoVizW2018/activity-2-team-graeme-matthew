@@ -22,7 +22,7 @@ Graeme Turney, Matthew Hodgson
 <h3>What-Why-How:</h3>
 
 <p><b>What</b></p>
-<p>The current data is a set of tables. The attributes of the tables are the arrival and departure times from a pair of locatinos. The tables are itemized by the ferry name.</p>
+<p>The current data is a set of tables. The attributes of the tables are the arrival and departure times from a pair of locations. The tables are itemized by the ferry name.</p>
 <p><b>Why</b></p>
 <p>Why does this visualization need to exist? So that it can present to the user the time schedules of multiple ferries on multiple routes. Users also wish to query the current schedule, to compare routes to one another.</p>
 <p><b>How</b></p>
@@ -30,13 +30,11 @@ Graeme Turney, Matthew Hodgson
 
 <h3>Design Study Methodology:</h3>
 
-<p>Due to the expidited nature of this activity, most of the 9 steps of the design were sped through or even skipped. Most time was spent on the design process after quickly learning about the problem at hand.</p>
-<p>If given a larger amount of time to work on this problem, more steps of the process could be performed.</p>
+<p>Due to the expedited nature of this activity, most of the 9 steps of the design were sped through or even skipped. Most time was spent on the design process after quickly learning about the problem at hand.</p>
+<p>If given a larger amount of time to work on this problem, more steps of the process could be performed. Discussions with the users of this system would need to occur in the learning stage, to help alleviate the assumptions made above. From there the process could continue along the defined steps.</p>
 
 <h3>Pitfalls:</h3>
 
 <p>Some of the pitfalls that may occur when designing this visualizations could be as follows:</p>
 
 <p><b>PF-9: No need for change: existing tools are good enough.</b> There is an abundance of scheduling applications that currently exist. It is possible that a scheduling application could be adapted to fit the use case of Seaspan.</p>
-
-<p><b>PF-: </b> </p>
