@@ -1,8 +1,14 @@
 
 <h1>SENG 480D - Activity 2</h1>
 
-<h2>Team Members:</h2>
+<h3>Team Members:</h3>
 Graeme Turney, Matthew Hodgson
+
+<h3>Design:</h3>
+![alt text](https://i.imgur.com/bDOMhca.jpg)
+
+<p/>
+<h3>Design Description</h3>
 
 <h3>Assumptions:</h3>
 
@@ -33,5 +39,3 @@ Graeme Turney, Matthew Hodgson
 <p><b>PF-9: No need for change: existing tools are good enough.</b> There is an abundance of scheduling applications that currently exist. It is possible that a scheduling application could be adapted to fit the use case of Seaspan.</p>
 
 <p><b>PF-: </b> </p>
-
-![alt text](https://i.imgur.com/bDOMhca.jpg)
